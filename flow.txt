@@ -1,0 +1,8 @@
+git init
+git add <filename> or git add .
+git commit -m "commit message"
+git remote add origin <github repository URL>
+git push -u origin master
+
+git checkout -b <new branch name> //for new branch
+git checout <branch name> //for existing branch
